@@ -1,0 +1,3 @@
+[submodule "lib/postgresql"]
+	path = lib/postgresql
+	url = git@github.com:Gordenator/pg8000.git
