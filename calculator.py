@@ -1,4 +1,5 @@
 def add(a, b):
+    # сложение двух чисел
     return a + b
 
 
