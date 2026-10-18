@@ -3,6 +3,7 @@ def add(a, b):
 
 
 def sub(a, b):
+    # вычитание
     return a - b
 
 
